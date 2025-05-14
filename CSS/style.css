@@ -1,0 +1,23 @@
+header {
+    background-color: darkorchid;
+    color: white;
+    border-bottom: 5px solid black;
+}
+
+main {
+    height: 100vh;
+    background-color: purple;
+}
+
+.mainBox {
+    background-color: #534B62;
+    border: 2px solid #A499B3;
+}
+
+.mainBox h3 {
+    color: white;
+}
+
+.btn {
+    background-color: #A499B3;
+}
