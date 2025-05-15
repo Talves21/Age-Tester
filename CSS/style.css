@@ -21,3 +21,14 @@ main {
 .btn {
     background-color: #A499B3;
 }
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+img {
+    display: none;
+    width: 500px;
+    height: 400px;
+}
